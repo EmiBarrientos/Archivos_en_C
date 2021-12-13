@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\yesi\documents\proyectosemi\archivos2020\pila.c
+	"pila.h"
+
+1490112217 c:\users\yesi\documents\proyectosemi\archivos2020\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1592807742 source:c:\users\yesi\documents\proyectosemi\archivos2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"pila.h"
+
